@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bar_bg_01.9.png",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\drawable-xxhdpi-v4\\bar_bg_01.9.png"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\ruitUtils\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    }
+]

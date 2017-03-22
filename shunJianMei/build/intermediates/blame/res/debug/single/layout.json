@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\quickpay_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\quickpay_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_listview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\reserve_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\me_edit_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\me_edit_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\order_modify_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\order_modify_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_title_bar_has_status.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\uicomp_title_bar_has_status.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\order_detail_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\order_detail_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\collect_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\collect_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\mybalance_listview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\mybalance_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\store_listview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\store_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_view.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\calendar_view.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_tishi_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\uicomp_tishi_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\loading_view_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\photo_choose_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\photo_choose_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hair_dressert_fragment_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hair_dressert_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\welcome_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_listview_item_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\reserve_listview_item_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_comment_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\item_order_comment_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\item_hair_dresser_schedule_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\item_hair_dresser_schedule_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_dialog_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\reserve_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hair_style_manager_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hair_style_manager_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hairstore_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hairstore_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\filter_popupwindow_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\filter_popupwindow_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_scrollview_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\reserve_scrollview_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\evaluate_listview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\evaluate_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_dialog_free_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\reserve_dialog_free_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_title_bar2.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\uicomp_title_bar2.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\item_hair_dreessert_popupwindow_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\item_hair_dreessert_popupwindow_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\me_scrollview_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\me_scrollview_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\reserve_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hair_style_details_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hair_style_details_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\item_hair_dressert_fragment_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\item_hair_dressert_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_message_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\uicomp_message_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hair_dressert_details_head_fragment_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hair_dressert_details_head_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\add_image_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\add_image_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hairdresser_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hairdresser_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\mybalance_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\mybalance_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\empty_view.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_title_bar_red_bg.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\uicomp_title_bar_red_bg.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hair_dresser_schedule_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hair_dresser_schedule_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hairstyle_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hairstyle_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\storedetail_introduction_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\storedetail_introduction_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\store_manager_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\store_manager_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hair_dressert_comment_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hair_dressert_comment_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\order_shara_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\order_shara_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\withdraw_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\withdraw_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\storedetail_hairdresser_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\storedetail_hairdresser_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\storedetail_scroll_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\storedetail_scroll_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_scrollview_free_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\reserve_scrollview_free_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\quickpay_master_select_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\quickpay_master_select_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\quickpay_result_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\quickpay_result_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_shara_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\item_order_shara_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\browser_activity_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\browser_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_list_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\item_order_list_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\item_hair_style_gv_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\item_hair_style_gv_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\public_base_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\public_base_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\feedback_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\datetimepickdialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\ruitUtils\\unspecified\\res\\layout\\datetimepickdialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\menu_frame.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\menu_frame.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\evaluate_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\evaluate_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_gridview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\reserve_gridview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\item_empty_listview_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\item_empty_listview_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\item_filter_popupwindow_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\item_filter_popupwindow_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hair_dressert_style_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hair_dressert_style_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\ac_show_pic_main.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\ac_show_pic_main.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\pay_listview_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\pay_listview_item.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\login_regist_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\login_regist_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\home_find_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\home_find_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\pay_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\pay_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\content_frame.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\content_frame.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\coupon_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\coupon_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\home_activity_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\home_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\modify_allusersubinfopackedbysubid.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\modify_allusersubinfopackedbysubid.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hair_dressert_details_intro_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hair_dressert_details_intro_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\uicomp_title_bar.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\uicomp_title_bar.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\location_activity_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\location_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hairdresser_listview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hairdresser_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\schedulefragment_gridview_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\schedulefragment_gridview_item.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\home_item_find_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\home_item_find_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\login_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\storedetail_hairdresser_listview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\storedetail_hairdresser_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_listview_item_free_dialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\reserve_listview_item_free_dialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hairstyle_gridview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hairstyle_gridview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\login_forget_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\login_forget_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\storedetail_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\storedetail_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\reserve_free_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\reserve_free_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\coupon_listview_item_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\coupon_listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\me_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\me_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\list_position.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\uIComp\\unspecified\\res\\layout\\list_position.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\datepickdialog.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\ruitUtils\\unspecified\\res\\layout\\datepickdialog.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\exploded-aar\\ShunJianMei\\ruitUtils\\unspecified\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\order_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\order_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\hair_dressert_details_fragment_layout.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\hair_dressert_details_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\order_evaluation_fragment.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\order_evaluation_fragment.xml"
+    },
+    {
+        "merged": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\build\\intermediates\\res\\merged\\debug\\layout\\master_listview_item.xml",
+        "source": "E:\\StudioWorkSpace\\O2O\\client\\AS\\ShunJianMei\\shunJianMei\\src\\main\\res\\layout\\master_listview_item.xml"
+    }
+]
